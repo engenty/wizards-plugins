@@ -1,0 +1,22 @@
+{
+  "name": "engenty",
+  "owner": {
+    "name": "engenty",
+    "url": "https://engenty.ai"
+  },
+  "description": "engenty wizards for your AI apps.",
+  "plugins": [
+    {
+      "name": "wizards",
+      "source": "./",
+      "description": "Build page-by-page AI wizards that people open on a shared link — designed, tested and published from Claude Code — run your published ones in the chat, and keep them in a pane beside it.",
+      "category": "productivity",
+      "keywords": [
+        "wizards",
+        "forms",
+        "ai-workflows",
+        "mcp"
+      ]
+    }
+  ]
+}
