@@ -3,7 +3,7 @@
   "name": "ai.engenty/wizards",
   "title": "engenty wizards",
   "description": "Build, test, publish and run page-by-page AI wizards that people open on a link.",
-  "version": "0.11.12",
+  "version": "0.11.13",
   "websiteUrl": "https://engenty.ai",
   "repository": {
     "url": "https://github.com/engenty/wizards-plugins",
