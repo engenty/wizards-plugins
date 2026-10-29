@@ -1,6 +1,6 @@
 {
   "name": "engenty-wizards",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "description": "Build page-by-page AI wizards that people open on a shared link, test and publish them from the chat, and run your published ones here.",
   "mcpServers": {
     "engenty-wizards": {
